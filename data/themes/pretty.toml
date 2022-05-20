@@ -17,7 +17,7 @@ name = "Pretty"
 
 [dark]
   # Primary
-  primary = "#575459"
+  primary = "#2b2242"
 
   link = "#b7bfe8"
   link_hover = "#b7bfe8"
