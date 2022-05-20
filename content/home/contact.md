@@ -3,6 +3,7 @@
 widget: contact
 
 # This file represents a page section.
+active: false
 headless: true
 
 # Order that this section appears on the page.
