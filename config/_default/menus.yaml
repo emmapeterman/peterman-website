@@ -8,16 +8,16 @@ main:
     url: '#about'
     weight: 10
   - name: About Me
-    url: 'content/aboutme/index.md'
+    url: 'content/aboutme/'
     weight: 20
   - name: Posts
-    url: 'content/post/index.md'
+    url: 'content/post/'
     weight: 40
   - #name: Talks
     #url: '#talks'
     #weight: 40
   - name: Publications
-    url: 'content/publication/index.md'
+    url: 'content/publication/'
     weight: 30
   - #name: Posts
     #url: '#contact'
