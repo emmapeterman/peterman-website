@@ -7,22 +7,22 @@ widget: featured
 headless: true
 
 # Order that this section appears on the page.
-weight: 80
+weight: 55
 
-title: Featured Publications
+title: News
 subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: news
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria
   filters:
-    author: ''
-    category: ''
-    publication_type: ''
-    tag: ''
+    #author: ''
+    #category: ''
+    #publication_type: ''
+    #tag: ''
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
@@ -32,5 +32,5 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 3
+  view: 2
 ---

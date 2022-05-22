@@ -42,11 +42,19 @@ item:
   - certificate_url: 
     date_end: ''
     date_start: '2021-05-01'
-    description: 'Award for the best piece of original published research by an senior undergraduate. See work published in the Journal of Visualized Experiments here: https://dx.doi.org/10.3791/61706-v'
+    description: 'Awarded for the best piece of original published research by an senior undergraduate; See work published in the *Journal of Visualized Experiments* here: https://dx.doi.org/10.3791/61706-v'
     organization: University of Delaware
     organization_url: 
     title: Charles B. Evans Prize
     url: https://www.jove.com/v/61706/evaluating-regional-pulmonary-deposition-using-patient-specific-3d
+  - certificate_url: 
+    date_end: ''
+    date_start: '2021-05-01'
+    description: 'Awarded to a senior undergraduate who has demonstrated outstanding academic work, a high level of involvement in campus life, and a commitment to a career in teaching and research'
+    organization: University of Delaware
+    organization_url: 
+    title: American Association of University Professors Student Prize
+    url: 
 
 design:
   columns: '2'
