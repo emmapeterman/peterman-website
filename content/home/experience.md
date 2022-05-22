@@ -22,28 +22,27 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Kate E. Galloway Lab
+    company: PhD Student | NSF Fellow
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
+    company_logo: 
+    location: Cambridge, MA
+    date_start: '2022-01-03'
     date_end: ''
     description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+        **Working Thesis Title: "Constructing a Synthetic Multicellular Regeneration Model from a Genetically Uniform Population"**
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Catherine A. Fromen Research Group
+    company: Undergraduate Researcher
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: 
+    location: Newark, DE
+    date_start: '2018-03-01'
+    date_end: '2021-07-01'
+    description: |2-
+        **Thesis: "Computational and *In Vitro* Modeling of Aerosol Diffusion through Pulmonary Mucus to Optimize Viral Sponge Delivery for SARS-CoV-2 Treatment"**
+        * Actualized lobe-specific targeting in 3D-printed airway replica by transforming a medical grade endotracheal tube, leading to a first-author peer reviewed publication and patent-pending prototype
+        * Spearheaded modeling of the lingual frenulum in patients with ankyloglossia as part of an interdisciplinary team including otolaryngologists from Nemours/Alfred I. duPont Hospital for Children, culminating in a manuscript and oral presentation
 
 design:
   columns: '2'
