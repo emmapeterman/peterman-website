@@ -51,7 +51,7 @@ social:
   #  link: https://github.com/emmapeterman
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/emma-peterman-a04077160
+    link: https://www.linkedin.com/in/emma-peterman-a04077160
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
