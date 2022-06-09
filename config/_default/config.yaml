@@ -69,3 +69,10 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+
+cascade:
+- _target:
+    path: /post/**
+    path: /publication/**
+    path: /news/**
+  share: false
