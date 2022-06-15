@@ -9,10 +9,10 @@ summary: Reflections on my first year at MIT and advice for incoming grad studen
 projects: []
 
 # Date published
-date: '2022-06-08T00:00:00Z'
+date: '2022-06-14T00:00:00Z'
 
 # Date updated
-lastmod: '2022-06-09T00:00:00Z'
+lastmod: '2022-06-14T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -25,7 +25,7 @@ featured: true
 image:
   caption: ''
   focal_point: ''
-  placement: 2
+  placement: 1
   preview_only: false
 
 authors:
@@ -47,3 +47,5 @@ In order to stick to this, though, I also needed to set limits on how late I wor
 With all of this time spent working, it is crucial to **_be intentional about taking time off_**. Each day, I try to avoid working through lunch, sometimes using the break to walk around campus if the weather is nice. I always leave campus in time to make dinner with my roommate, Ali, and chat about our days. I also try to take one day a week totally off from working and use these days to recharge and explore Cambridge. These ideas seem simple, but carving time out of my schedule to rest is absolutely essential for me to perform at my best. As I became busier throughout the semester, I found it harder and harder to maintain this personal time. Especially during my second semester with both research and classes, it felt easy to justify working weekends or staying late in lab. These were the times, though, that I could feel myself becoming fatigued and see the quality of my work dropping. When I look back on my first year, it is not the time spent in the office or at my desk that stands out, but the time I spent trying Downeast cider with Ali, seeing a game at Fenway with my cohort, and enjoying my first Cambridge snowstorm. Having this time set aside made it easier to get through difficult work during the week (and ensured I have some great memories from first year to look back on). 
 
 Despite my best efforts to stick to these goals, sometimes imposter syndrome and stress got to me, leaving me with doubts about my ability to succeed in this program or academia as a whole. What helped me get through these moments was to **_remind myself of all I have accomplished to get to this point_**. For me, this means taking a few minutes to walk down by the Charles River and sit by the Dome. Being there always reminds me of how happy I was when I found out I was given the opportunity to study at MIT and puts the small magnitude of my daily challenges into perspective. When I accepted my offer at MIT, I felt grateful for the chance to learn from brilliant professors and peers, confident in my own abilities, and excited for the five years to come. I hope that through continuing these practices I can overcome challenges and maintain a positive outlook for the remainder of my PhD.
+
+{{< gallery album="gradpost1" resize_options="100x" >}}
