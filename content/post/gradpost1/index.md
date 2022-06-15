@@ -48,4 +48,6 @@ With all of this time spent working, it is crucial to **_be intentional about ta
 
 Despite my best efforts to stick to these goals, sometimes imposter syndrome and stress got to me, leaving me with doubts about my ability to succeed in this program or academia as a whole. What helped me get through these moments was to **_remind myself of all I have accomplished to get to this point_**. For me, this means taking a few minutes to walk down by the Charles River and sit by the Dome. Being there always reminds me of how happy I was when I found out I was given the opportunity to study at MIT and puts the small magnitude of my daily challenges into perspective. When I accepted my offer at MIT, I felt grateful for the chance to learn from brilliant professors and peers, confident in my own abilities, and excited for the five years to come. I hope that through continuing these practices I can overcome challenges and maintain a positive outlook for the remainder of my PhD.
 
-{{< gallery album="gradpost1" resize_options="100x" >}}
+{{< gallery album="gradpost1" >}}
+<div style="1000 px; font-size:80%; text-align:center;">
+Left: Visiting Downeast Cider House; Center: First Boston snowstorm; Right: Visiting MIT in March 2021</div>
